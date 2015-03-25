@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "6c291f10807d4be9e5afb7672f0fd966",
+    "packages": [
+        {
+            "name": "sbstjn/spore.php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sbstjn/Spore.PHP.git",
+                "reference": "11b8d06d2020cf9f01d792c715281a83a554c26c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sbstjn/Spore.PHP/zipball/11b8d06d2020cf9f01d792c715281a83a554c26c",
+                "reference": "11b8d06d2020cf9f01d792c715281a83a554c26c",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sbstjn",
+                    "email": "mail@sbstjn.com"
+                }
+            ],
+            "description": "Yet another lightweight PHP framework",
+            "homepage": "https://github.com/sbstjn/Spore.PHP",
+            "keywords": [
+                "express",
+                "framework",
+                "http",
+                "route",
+                "web"
+            ],
+            "time": "2015-03-25 19:13:32"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "sbstjn/spore.php": 20
+    },
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}

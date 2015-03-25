@@ -1,0 +1,16 @@
+{
+		"name": "sbstjn/sporing-partmer",
+		"description": "Sporing Partner for spore.php",
+		"version": "0.0.1",
+		"license": "MIT",
+		"keywords": ["Spore.PHP"],
+		"time": "2015-03-25",
+		"authors": [
+				{
+						"name": "sbstjn",
+						"email": "mail@sbstjn.com"
+				}
+		],
+		"minimum-stability": "dev",
+		"require": {}
+}
